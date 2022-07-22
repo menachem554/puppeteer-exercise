@@ -1,3 +1,5 @@
 # puppeteer-exercise
 
-To run the pro
+In order to tun the project: 
+npm install
+node exercise.js
